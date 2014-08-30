@@ -1,0 +1,12 @@
+{
+  "name": "node-traceur-runner",
+  "version": "0.0.1",
+  "description": "Run next-ecmascript in traceur.",
+  "main": "./index.js",
+  "bin": {
+    "nodetr": "./bin/nodetr.js"
+  },
+  "dependencies": {
+    "traceur": "latest"
+  }
+}
