@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var traceurCompile = require("..");
 var spawn = require('child_process').spawn;
 var fs = require("fs");

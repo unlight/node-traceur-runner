@@ -1,6 +1,6 @@
 {
   "name": "node-traceur-runner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run next-ecmascript in traceur.",
   "main": "./index.js",
   "bin": {
