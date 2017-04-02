@@ -1,5 +1,7 @@
 OBSOLETE
 ========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/node-traceur-runner.svg)](https://greenkeeper.io/)
 Use [node6](https://github.com/requireio/node6) instead.
 
 node-traceur-runner
